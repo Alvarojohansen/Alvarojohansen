@@ -1,6 +1,11 @@
 ## Hi I'm Alvaro Johansen 👋
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<br/>
+Hi, I'm Alvaro, a full stack developer with a solid background in front-end and back-end technologies.<br/> I'm currently finishing my university studies and, throughout my education, I discovered a great passion for software development. I am excited to continue learning and growing in such a dynamic and constantly evolving field. I am ready to contribute my knowledge and skills, as well as continue to expand my capabilities in this exciting area.
+
+Translated with DeepL.com (free version)
+
 
 <h3 align="center">Frontend </h3>
 <div align="center">  
