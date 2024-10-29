@@ -7,9 +7,14 @@
 <br/>
 Hi, I'm Alvaro, a full stack developer with a solid background in front-end and back-end technologies.<br/> I'm currently finishing my university studies and, throughout my education, I discovered a great passion for software development. I am excited to continue learning and growing in such a dynamic and constantly evolving field. I am ready to contribute my knowledge and skills, as well as continue to expand my capabilities in this exciting area.
 
+
+
+
+
+
 <table align="center">
 
-
+<h1>Technologies:</h1>
 
 
 
