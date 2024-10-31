@@ -2,7 +2,7 @@
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture><b>About me</b>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcndlbzFoc3l0bGM0dzd1b2VhNWdhMndmcDFmdWEwcWRjZHJiZDBqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp">
 </a>
 <br/>
 Hi, I'm Alvaro, a full stack developer with a solid background in front-end and back-end technologies.<br/> I'm currently finishing my university studies and, throughout my education, I discovered a great passion for software development. I am excited to continue learning and growing in such a dynamic and constantly evolving field. I am ready to contribute my knowledge and skills, as well as continue to expand my capabilities in this exciting area.
